@@ -8,7 +8,7 @@ Some setup scripts for different needs. Enjoy.
 2. [Python](#Python-Template-Creator)
 
 ## GRC Setup
-### setup-grc.sh
+### [setup-grc.sh](setup-grc.sh)
 
 This module specifically setups the `grc` command for use with the `tail` command.
 It will add customization and coloring to any future tail commands for easier viewing.
@@ -20,7 +20,7 @@ Usage:
 
 
 ## Python Template Creator
-### setup-python.py
+### [setup-python.py](setup-python.py)
 
 This module sets up python files given command line arguments.
 Designed to help user obey PEP 8 standards.
