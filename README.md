@@ -4,8 +4,8 @@ Some setup scripts for different needs. Enjoy.
 
 ## Table of Contents
 
-1. [GRC Setup](GRC)
-2. [Python Template Creator](Python)
+1. [GRC](#GRC-Setup)
+2. [Python](#Python-Template-Creator)
 
 ## GRC Setup
 ### setup-grc.sh
