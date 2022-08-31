@@ -145,7 +145,7 @@ def generate(name: str, u_class: int = 0, u_func: int = 0, u_main: bool = True) 
         template += "\n\n### Functions ###\n"
         for i, task in enumerate(range(u_func)):
             template += "\n\n"
-            template += generate_object(f"Function{i+1}", 0)
+            template += generate_object(f"function{i+1}", 0)
 
     if u_main:
         template += f"\n\n{main_template}"
