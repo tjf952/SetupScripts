@@ -4,8 +4,15 @@ Some setup scripts for different needs. Enjoy.
 
 ## Table of Contents
 
+0. [Resources](#Resources)
 1. [GRC](#GRC-Setup)
 2. [Python](#Python-Template-Creator)
+
+## Resources
+### [resources.zip](resources.zip)
+
+This is my setup resources for kali, it contains a large number of exploits, wordlists, and scripts.
+Basically, it's for a fresh install of kali linux if something goes wrong during my manual updates or my machine becomes unusable.
 
 ## GRC Setup
 ### [setup-grc.sh](setup-grc.sh)
