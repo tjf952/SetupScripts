@@ -9,7 +9,7 @@ Some setup scripts for different needs. Enjoy.
 2. [Python](#Python-Template-Creator)
 
 ## Resources
-### [resources.zip](resources.zip)
+### [savefile.zip](savefile.zip)
 
 This is my setup resources for kali, it contains a large number of exploits, wordlists, and scripts.
 Basically, it's for a fresh install of kali linux if something goes wrong during my manual updates or my machine becomes unusable.
